@@ -3,6 +3,9 @@
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
+- Detail-oriented final year student pursuing a B-tech in computer science with expertise in scripting, Proficient in  PYTHON,HTML/CSS, JAVASCRIPT,C,C++,JAVA and SQL. Passionate about implementing and launching new projects. Ability to translate business requirements into technical solutions. Looking to start the career as an entry-level software engineer with a reputed firm driven by technology.
+![image](https://github.com/Scoderankit/Scoderankit/assets/147617565/a9327498-f8ef-43a5-9e83-38c438aa0664)
+
 
 <!---
 Scoderankit/Scoderankit is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
